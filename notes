@@ -1,0 +1,5 @@
+echo "# My Notes" > notes.txt
+mkdir src include
+echo "// sample code" > src/hellomake.c
+echo "// sample header" > include/hellomake.h
+
